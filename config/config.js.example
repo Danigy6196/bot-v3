@@ -1,0 +1,11 @@
+module.exports.options = {
+    token: 'MTA0Njc4NTQ1MTQyMTMzNTU4Mg.GF0Fi3.3rAZfpgaZOWs35jEw8ctNLLARbhGj7xH8TRuaU',
+    topicChannels: [
+      'general'
+    ],
+    roles: ["Admin"],
+    servers: [
+        { name: 'Server1', url: 'http://87.121.54.147:30120', alias: 'NewYork' },
+    ],
+    pollRate: 30,
+};
